@@ -3,6 +3,7 @@
 sudo apt-get install openjdk-7-jre
 
 File->Import->General->Preference, add eclipse_mozilla_pref.ep
+
 Appearenc->Dark Juno
 
 ##Creating an Eclipse project
@@ -10,6 +11,7 @@ To create an Eclipse project for your Mozilla source tree, select "File > New > 
 
 ##Hot Keys
 Ctrl + Shift + /   -- Collapse All
+
 Ctrl + Shift + *  -- Expand all
 
 ## Reference
