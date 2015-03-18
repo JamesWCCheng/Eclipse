@@ -14,5 +14,8 @@ Ctrl + Shift + /   -- Collapse All
 
 Ctrl + Shift + *  -- Expand all
 
+Ctrl + "+ or -"    -- Expand / Collapse function
+
+Ctrl + Shift + p  -- Jump to corresponded bracket 
 ## Reference
 <a name="Eclipse CDT Setting" title="Simple Eclipse CDT Setting with Mozilla" target="_blank" href="https://developer.mozilla.org/zh-TW/docs/Eclipse_CDT">Mozilla Eclispe CDT Setting</a>
