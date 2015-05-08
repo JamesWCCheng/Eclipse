@@ -31,5 +31,9 @@ Ctrl + o           -- Show all method in this file
 Ctrl + Shift + t   -- Find a class or function in all files
 
 Ctrl + Shift + o   -- Find a file in this project
+
+Ctrl + t           -- Find inherited
+
+Ctrl +ALT + L      -- Open all hot key viewer
 ## Reference
 <a name="Eclipse CDT Setting" title="Simple Eclipse CDT Setting with Mozilla" target="_blank" href="https://developer.mozilla.org/zh-TW/docs/Eclipse_CDT">Mozilla Eclispe CDT Setting</a>
